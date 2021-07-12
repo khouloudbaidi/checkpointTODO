@@ -1,0 +1,8 @@
+.listTasks {
+  display: flex;
+  flex-direction: column;
+  background-color: #f7f7f7;
+  border-radius: 15px;
+  padding: 2%;
+  margin: 2% 10%;
+}
